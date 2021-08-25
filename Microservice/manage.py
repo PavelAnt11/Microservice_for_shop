@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+# Скрипт, который позволяет вам взаимодействовать с проектом Django.
 import os
 import sys
 
